@@ -1,8 +1,4 @@
-# TFT-QuantileRegression-WindEnergy-Prediction48h
-
-# Thesis – 48h Wind Power Forecasting Using Deep Learning Models
-
-**Temporal Fusion Transformer (TFT) & LSTM for Smart Energy Planning**
+# Temporal Fusion Transformer using Quantile Regression - Predicting Wind Energy 48h horizon in SE1/SE3 Sweden
 Mälardalen University, 2025 | Electrification Hub Collaboration
 
 ---
