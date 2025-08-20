@@ -1,0 +1,10 @@
+{
+  "best_score": 0.0676487535238266,
+  "best_params": {
+    "hidden_dim": 240,
+    "n_rnn_layers": 1,
+    "dropout": 0.3,
+    "lr": 0.001,
+    "batch_size": 16
+  }
+}

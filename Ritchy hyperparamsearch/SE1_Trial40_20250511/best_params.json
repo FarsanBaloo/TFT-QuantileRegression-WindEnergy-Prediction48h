@@ -1,0 +1,15 @@
+{
+    "best_score": 270.6866760253906,
+    "best_params": {
+        "input_chunk_length": 72,
+        "output_chunk_length": 48,
+        "hidden_size": 40,
+        "lstm_layers": 2,
+        "num_attention_heads": 1,
+        "dropout": 0.2,
+        "n_epochs": 30,
+        "lr": 0.01,
+        "batch_size": 128,
+        "weight_decay": 0.0
+    }
+}
